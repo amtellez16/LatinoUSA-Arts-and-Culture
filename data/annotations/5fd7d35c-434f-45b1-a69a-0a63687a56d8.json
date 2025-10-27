@@ -1,5 +1,590 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Music] In Old New Mexico, way before the advent of the railroad, candle flames danced in tin sconces on white plaster walls. Tin flames lit the faces of Christian saints. Tin crosses led processions of worship."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Tin (Hojalata)",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Folk Art",
+          "category": "Genre"
+        },
+        {
+          "tag": "New Mexico",
+          "category": "Geographic"
+        },
+        {
+          "tag": "19th Century",
+          "category": "Time Period"
+        },
+        {
+          "tag": "Music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "496a8ca3-279e-426e-8a42-6ca325845e3b"
+    },
+    {
+      "start_time": 24,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In those days, traders brought in small tin items. Then in the mid-1800s, the railroads began to haul in large sheets of tin. It became plentiful for the first time, inspiring the golden days of tin making for the next 75 years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Tin (Hojalata)",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Folk Art",
+          "category": "Genre"
+        },
+        {
+          "tag": "New Mexico",
+          "category": "Geographic"
+        },
+        {
+          "tag": "19th Century",
+          "category": "Time Period"
+        },
+        {
+          "tag": "Music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "9663780a-8ff9-4015-b983-27f9999fc777"
+    },
+    {
+      "start_time": 40,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sadly, we don't know much about tin's history. Few artists signed their work, and much of it has been lost. But today, tin making is popular once again in New Mexico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Tin (Hojalata)",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Folk Art",
+          "category": "Genre"
+        },
+        {
+          "tag": "New Mexico",
+          "category": "Geographic"
+        },
+        {
+          "tag": "2000",
+          "category": "Time Period"
+        },
+        {
+          "tag": "Music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "f27b26a8-fd37-44e3-87ad-46e5501cf223"
+    },
+    {
+      "start_time": 52,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reporter Deborah Begel dropped in on a tin making class at the public library in the northern New Mexico town of El Rito."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Tin (Hojalata)",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "El Rito, NM",
+          "category": "Geographic"
+        }
+      ],
+      "uuid": "4e4a653e-4f1f-404f-86a8-3fb385914f7c"
+    },
+    {
+      "start_time": 61,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's two ways of making the tin. One is the way we learned here, where you do each little indentation into the tin on your own by doing each one individually, while nowadays they're making that with machines. But I think it's more unique when you take the time and make your own piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Elaine Archuleta",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Tin (Hojalata)",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Folk Art",
+          "category": "Genre"
+        }
+      ],
+      "uuid": "c7037612-c80a-49cf-9aa4-b67b9002c0bf"
+    },
+    {
+      "start_time": 80,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you're going to make it into a nightlight, you're going to need a very pointy tip. We have different ones here, and yours is going to be a nightlight, right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Elaine Archuleta",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Tin (Hojalata)",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Folk Art",
+          "category": "Genre"
+        }
+      ],
+      "uuid": "07295828-158b-4606-9846-c5cd43b650b8"
+    },
+    {
+      "start_time": 92,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elaine Archuleta started taking tin making classes and found she couldn't stop. She stayed for three semesters. Now she's teaching her first class at the El Rito Public Library. She explains each step to students one on one. I lean in close to catch her soft voice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Deborah Begel",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Tin (Hojalata)",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "El Rito, NM",
+          "category": "Geographic"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "6fdb9f70-c501-4a66-835a-ca54ed2a17a9"
+    },
+    {
+      "start_time": 109,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You don't want your holes too close, but you don't want them too far. So you can keep that distance away from each one of them and go all the way around your piece and see how it works."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Elaine Archuleta",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Tin (Hojalata)",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Folk Art",
+          "category": "Genre"
+        }
+      ],
+      "uuid": "723bc579-320e-4f42-817b-4cbadac1df80"
+    },
+    {
+      "start_time": 118,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you let this, will you let us take these home? Sure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Elaine Archuleta",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3a2e678b-ea83-406d-b016-b293b5da992e"
+    },
+    {
+      "start_time": 123,
+      "end_time": 149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My name is Leona Herrera, and I like doing tin. I like doing a lot of stuff with it. I've already made the light switch cover, and I'm already working on this. It's for my picture, but I want to give my mom."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Elaine Archuleta",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "7097e667-9090-4608-92b0-39d643ffc3d9"
+    },
+    {
+      "start_time": 149,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tin work in our community hasn't been around lately these last years, but the thing about it is that it's been done many years before, and I think it's great that we can introduce it back into the young kids and keep it going for the years to come."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Elaine Archuleta",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Tin (Hojalata)",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "New Mexico",
+          "category": "Geographic"
+        },
+        {
+          "tag": "Folk Art",
+          "category": "Genre"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "a40f5d00-db79-4b4f-b1c4-ff1cfd886835"
+    },
+    {
+      "start_time": 164,
+      "end_time": 172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When it comes to designs, Archuleta encourages people to be adventurous. For inspiration in her work, she likes to look at quilting patterns."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Deborah Begel",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Tin (Hojalata)",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "595817ad-aa20-4d53-8249-c367785e7ce9"
+    },
+    {
+      "start_time": 172,
+      "end_time": 191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Start stamping out any design that you want. Create your own. Do you have a plan? Let's see. You know, it's just mostly design and shapes. It's easy on you, especially as a beginner."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Elaine Archuleta",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Tin (Hojalata)",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Folk Art",
+          "category": "Genre"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "f68c1f29-9827-4c6b-82e7-067c37884096"
+    },
+    {
+      "start_time": 191,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Watching everybody made me want to try it too. Elaine set me up and got me started."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Deborah Begel",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3d9136f1-0291-4f81-afe0-fee2903df964"
+    },
+    {
+      "start_time": 195,
+      "end_time": 204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What you're going to do is draw the line all the way around your image, okay, and keep it a certain distance away from the edge."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Elaine Archuleta",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Tin (Hojalata)",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Folk Art",
+          "category": "Genre"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "7752c790-42a4-49e6-a486-0253e88f9e38"
+    },
+    {
+      "start_time": 204,
+      "end_time": 217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I made a nightlight shaped like a fish in a neat little frame for the last picture I took of my dearest dog, Annie. As the class drew to a close, I grew anxious to get home to hang the picture and see the light come through the fish."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Deborah Begel",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Tin (Hojalata)",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "c39ec6f7-67ea-4882-92c8-5b5d839dc5d0"
+    },
+    {
+      "start_time": 217,
+      "end_time": 229,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wasn't the only one making plans. Get the hole, Elaine. I'm going to hang it. Well, let's finish it. You can make the hole. Let's see if you can do that part, though. Oh, look at that line."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Deborah Begel",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Elaine Archuleta",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Tin (Hojalata)",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "a2342a5f-4b18-4b94-88b7-9836decfa472"
+    },
+    {
+      "start_time": 229,
+      "end_time": 235,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alex's line may be crooked, but his ornament will look great on the Christmas tree this year."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Deborah Begel",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Tin (Hojalata)",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "5ca9eeaf-6d65-43fb-8b52-db6ac3f1da8b"
+    },
+    {
+      "start_time": 235,
+      "end_time": 245,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nice meeting you. You too, Ruth. Hope I see you again. Yeah, you will. That's it. We'll see you guys then. Thanks for coming. Bye, Haley. Bye."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Deborah Begel",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "111d41ba-7c28-44ee-8bef-b64ec73c0df2"
+    },
+    {
+      "start_time": 245,
+      "end_time": 248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For Latino USA, this is Deborah Begel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Deborah Begel",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "db4098d1-f519-411b-9980-b95df31cd27a"
+    }
+  ],
   "set": "Default",
   "event_id": "a64ae23b-5244-445d-b053-a1da314a9211",
   "source_id": "40cdb894-45c7-4966-851f-fe4cc1ec4868"
