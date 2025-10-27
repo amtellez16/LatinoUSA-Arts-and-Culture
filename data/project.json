@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "amtellez16",
+    "is_private": false,
+    "title": "Latino USA Visualization Project",
+    "description": "This AVAnnotate project intends to emphasize the culture and art segments from an assortment of episodes. By providing additional context, Latino USA listeners can engage with its content in new ways. Not only are the transcripts available to read along with each episode, but each web page includes additional content, like photos, music, and videos, to provide users with a more immersive experience of the topics discussed.",
+    "language": "en",
+    "slug": "LatinoUSA-Arts-and-Culture",
+    "creator": "amtellez16",
+    "authors": "Kathryn Gaylon, Luz Gonzalez, Christian Nicholas, and Allysa Tellez",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-10-27T18:56:34.860Z",
+    "updated_at": "2025-10-27T18:56:34.860Z"
   }
 }
