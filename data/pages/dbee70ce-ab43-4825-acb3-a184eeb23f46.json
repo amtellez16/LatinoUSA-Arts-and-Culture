@@ -1,14 +1,45 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "8d8709d4-9ead-4db6-a516-34aafb35d975",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-10-27T22:50:50.316Z",
   "created_by": "amtellez16",
   "title": "Anthony Quinn - Latino USA Episode 426",
   "slug": "anthony-quinn-latino-usa-episode-426",
-  "updated_at": "2025-10-27T22:50:50.316Z",
+  "updated_at": "2025-10-27T23:36:32.555Z",
   "updated_by": "amtellez16",
   "parent": "fc9d1a20-a461-4713-b646-dba259bf93f2",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "8d8709d4-9ead-4db6-a516-34aafb35d975"
   }
