@@ -1,5 +1,960 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For this year's Academy Awards, actor Benicio Del Toro has been nominated as best supporting actor. If he wins, Del Toro would become only the second Latino to win an Oscar in one of the major categories. The only other time that happened was in 1961."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Acting",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "1961",
+          "category": "Time Period"
+        },
+        {
+          "tag": "Representation",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "05a108cd-e418-4dd8-92e3-4ae947267326"
+    },
+    {
+      "start_time": 18,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I like to be in America, okay by me in America, everything free in America. For a small fee in America."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Excerpt",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Music",
+          "category": "Sounds"
+        },
+        {
+          "tag": "West Side Story",
+          "category": "Work Titles"
+        }
+      ],
+      "uuid": "60c7bf28-0c18-4e7a-9440-5e2056408bc2"
+    },
+    {
+      "start_time": 30,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Moreno was born Rosita Dolores Alberio in Puerto Rico. She came to the United States with her family in search of new opportunities some 55 years ago."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Puerto Rico",
+          "category": "Geographic"
+        },
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "1efc5bdf-c76e-4796-bfb4-896501e73864"
+    },
+    {
+      "start_time": 42,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She has since conquered Broadway, Hollywood and television, despite the in-her-face barriers that her brown skin created."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Entertainment",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "7f0a81d7-801d-4346-bf61-42d585ccf2a7"
+    },
+    {
+      "start_time": 51,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rita Moreno is listed in the Guinness Book of World Records as the only woman to have won all four of show business' top honors. An Emmy, a Grammy, an Oscar and a Tony."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Entertainment",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "490cbfa1-98b6-44a2-a186-6aa5652bd3e6"
+    },
+    {
+      "start_time": 64,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She became a pioneer for both women and people of color when she won an Academy Award for West Side Story. The first and only Latina to ever win that award."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Entertainment",
+          "category": "Subject"
+        },
+        {
+          "tag": "Representation",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "22381b5f-6688-47ca-aa41-09967902b9c3"
+    },
+    {
+      "start_time": 74,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We're pleased that she joins us from a studio in New York City."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "New York City",
+          "category": "Geographic"
+        }
+      ],
+      "uuid": "f9e78ef1-997f-4cce-aa62-a0486f1cb235"
+    },
+    {
+      "start_time": 77,
+      "end_time": 86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welcome to Latino USA. You know it's a total pleasure to be speaking with you. You know when I was 10 years old growing up hating my name Maria."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "New York City",
+          "category": "Geographic"
+        }
+      ],
+      "uuid": "df7d54bd-eb1f-401f-9110-d404f59eb43c"
+    },
+    {
+      "start_time": 86,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know what you're going to say."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "46863a45-1cdb-4f8d-b6d8-89e00151d2e8"
+    },
+    {
+      "start_time": 89,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And my father gave me permission to watch this movie about something happening in New York and of course you were there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "West Side Story",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Film",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "d91f09c4-3abd-4045-8160-ec687a2aef8c"
+    },
+    {
+      "start_time": 95,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You're speaking of West Side Story."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        },
+        {
+          "tag": "West Side Story",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Film",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "e98fc662-e0ac-4816-8316-e93ab647e36e"
+    },
+    {
+      "start_time": 97,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And certainly that moment for me became an incredible moment in recognition. In that someone who had my name existed in this country which of course I previously felt that no one did exist in this country with that name."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "West Side Story",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Film",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Representation",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "f1422d2f-9b1f-420c-a353-f8cd17c9a609"
+    },
+    {
+      "start_time": 112,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My goodness that movie did more things for more Latinos than you can possibly imagine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        },
+        {
+          "tag": "West Side Story",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Film",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Representation",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "75c36f2e-39ec-48a3-8786-4d2580efd61d"
+    },
+    {
+      "start_time": 118,
+      "end_time": 128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eddie Olmos and Paul Rodriguez both told me that they felt 'Well if she can do it, I can do it.' And it's what encouraged them to pursue a career in our business."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Acting",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "7fa16c01-ef71-4d52-a037-66f5399df232"
+    },
+    {
+      "start_time": 128,
+      "end_time": 134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At what point in your life as a Latina did you begin to feel visible?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "cd9000a3-8cdb-4367-ab2f-03d8b91ef468"
+    },
+    {
+      "start_time": 134,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Visible? Oh my dear it took a long time. The fact that I was in movies and television and all that kind of stuff really didn't mean a thing. It's how you perceive how visible you are and I didn't feel that way for many many years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Acting",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "3a1f2cd7-8b1a-4fdf-ab9f-e21d80d4a96d"
+    },
+    {
+      "start_time": 147,
+      "end_time": 154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean don't forget I'm the one that our community calls La Pionera, the pioneer. And it was very lonely there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "edac952b-3211-44c5-a9b0-2e325fbf2b5d"
+    },
+    {
+      "start_time": 154,
+      "end_time": 166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what's the significance even today so many years later we still have young Latinos who continue to fight their own invisibility. What do you do with that lack of visibility?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e2cc5087-8219-438f-bce7-f92fe8c04f08"
+    },
+    {
+      "start_time": 166,
+      "end_time": 183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've always felt that perseverance is the answer to almost everything. I remember once receiving an award and I remember saying to all the young people out there don't let anybody, anybody at any time alter your vision of what you think is right for you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "7baa4f0d-6a15-433b-aa40-e836fff7c5bf"
+    },
+    {
+      "start_time": 183,
+      "end_time": 196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pursue what you want no matter what anybody says and no matter what anybody thinks. And I think that's the answer. You have to learn not to victimize yourself."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f88bab11-c4f1-4bd5-be88-bda8713467c7"
+    },
+    {
+      "start_time": 196,
+      "end_time": 215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stop blaming people on the outside because I'm Latina I didn't get this and because I'm black I didn't get that. You know what? That is the reality and it's very possible that you didn't get this or that because you're Latina or black. And my answer to that is so what? Get up, dust yourself off and move forward. Don't let anyone stop you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e8d80213-edca-4af2-aa16-d653488748fc"
+    },
+    {
+      "start_time": 215,
+      "end_time": 219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And now you've taken on a huge role at this stage in your life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "6192b438-e1d8-4049-8dfc-8bb34ecbf01e"
+    },
+    {
+      "start_time": 219,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have, yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9c386ea4-9e74-42aa-baf7-72d26493217e"
+    },
+    {
+      "start_time": 220,
+      "end_time": 227,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why are you speaking out on something so, I mean a lot of people are going to say, what do you mean Rita Moreno speaking out about osteoporosis?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Women's Health",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "37df5319-7b5d-435c-b3d2-ccb2a5456e94"
+    },
+    {
+      "start_time": 227,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I found that I had a low bone mass when I had a bone density test about a year and a half ago and I was shocked."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Women's Health",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "2fe20793-1ce3-4eb8-ada0-e9840489feaf"
+    },
+    {
+      "start_time": 234,
+      "end_time": 241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now that's not osteoporosis but it's on the way and I was astonished to find that I have been athletic all my life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Women's Health",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "4490be9c-6baa-46de-b6f2-aa463cd3c240"
+    },
+    {
+      "start_time": 241,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And originally would have been the poster girl for good bone health and good all kinds of health had this potentially debilitating and crippling disease."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Women's Health",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "191680d2-45dc-4eb5-9c0d-41eec2f52238"
+    },
+    {
+      "start_time": 250,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I've gotten on this campaign to make women aware of the importance of having a bone density test."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Women's Health",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "ee66835a-2b3d-4629-b501-7849149ba4d6"
+    },
+    {
+      "start_time": 257,
+      "end_time": 262,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's a disease that is really horrendous because it has no symptoms. It is not arthritis."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Women's Health",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "c7b454aa-91a2-4eef-bfda-f7b2b94b99f7"
+    },
+    {
+      "start_time": 262,
+      "end_time": 266,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You don't get pain in the joints. You don't have trouble getting up or sitting down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Women's Health",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "0af21a3f-717f-4cf6-b1d0-5277e6c23e98"
+    },
+    {
+      "start_time": 266,
+      "end_time": 274,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you don't take the bone density test when you go into menopause, your one symptom may be a serious, serious fracture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Women's Health",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "3c75c89e-5930-44c4-9503-6984648e250e"
+    },
+    {
+      "start_time": 274,
+      "end_time": 278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that's something that can be prevented. So here I am."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Women's Health",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "dff6f63d-99c7-4c06-ba2e-cb5fb12909c5"
+    },
+    {
+      "start_time": 278,
+      "end_time": 286,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know Rita, my husband asked me recently to tell him one of the moments when I'm like extraordinarily happy and I said when I'm dancing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f13e65fd-afcb-4d6c-b623-1c560715b322"
+    },
+    {
+      "start_time": 286,
+      "end_time": 293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So let me ask you at this point in your life, what is the moment when you are happy beyond words?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ed709e5d-4dd4-4b23-9147-2eaeb9e8fb3f"
+    },
+    {
+      "start_time": 293,
+      "end_time": 303,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When I'm playing with two-year-old Justin Gordon Fisher, my grandson. (Laughter) Dancing is wonderful but Justin is a whole lot more wonderful."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "50770faf-ff31-49d1-a824-d9b8e1f0163f"
+    },
+    {
+      "start_time": 303,
+      "end_time": 311,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well thanks so much for speaking with us. We've been having a conversation with Rita Moreno, the legend of stage, screen and television."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Rita Moreno",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "fa3a36e3-bd9e-4388-bebc-a9a57f096a45"
+    },
+    {
+      "start_time": 316,
+      "end_time": 324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And for this week, this has been Latino USA, the radio journal of news and culture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "23bb5e06-1629-4d68-9485-7cd8de4dec0d"
+    },
+    {
+      "start_time": 324,
+      "end_time": 327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gracias por su atención. Thanks for listening."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "4335133a-7070-48fd-b636-e8d29861b430"
+    }
+  ],
   "set": "Default",
   "event_id": "3d1d50ba-5054-4e7f-9a89-c93c33bf15bf",
   "source_id": "30d7d1bc-a8e4-44fb-befc-ec4a4626a762"
