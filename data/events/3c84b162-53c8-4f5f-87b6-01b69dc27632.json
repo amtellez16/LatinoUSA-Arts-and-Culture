@@ -4,7 +4,7 @@
       "label": "El Teatro Campesino",
       "is_offline": false,
       "file_type": "Audio",
-      "file_url": "https://drive.google.com/file/d/1RL_bgIL6HZ97t3NYFSrL9RkVt8T0CLw5/view?usp=drive_link",
+      "file_url": "https://archive.org/download/010330lusapgm-416-el-teatro-campesino/010330lusapgm416%20-%20El%20teatro%20Campesino.mp3",
       "duration": 1735
     }
   },
@@ -12,6 +12,9 @@
   "label": "El Teatro Campesino - Latino USA Episode 416",
   "created_at": "2025-10-27T19:43:52.633Z",
   "created_by": "amtellez16",
-  "updated_at": "2025-10-27T19:43:52.633Z",
-  "updated_by": "amtellez16"
+  "updated_at": "2025-10-27T20:29:58.715Z",
+  "updated_by": "amtellez16",
+  "av_file_order": [
+    "4b47bb73-55f5-4963-9803-14e2f2ba7a84"
+  ]
 }
