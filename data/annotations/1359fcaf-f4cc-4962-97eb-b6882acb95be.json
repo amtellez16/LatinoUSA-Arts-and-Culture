@@ -1,5 +1,350 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My name is Quique Aviles and I'm a poet and performer from Washington DC and this poem is called Border Crossing Chicken."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Quique Aviles",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "a4fe1584-6886-4c5d-9f3e-39cc8b8d3a45"
+    },
+    {
+      "start_time": 7,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The chicken crossed the border to taste some Kentucky Fried chicken. The chicken crossed the border to meet Frank Purdue."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Quique Aviles",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "6d404de7-b17b-431e-927c-e7a5736593b1"
+    },
+    {
+      "start_time": 14,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The chicken crossed cause the other side wanted to play a quick game of chicken."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Quique Aviles",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "38373df7-ed55-4703-a7e8-6f8102c3bdc2"
+    },
+    {
+      "start_time": 19,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The chicken crossed wanting to meet the gay lobby and shake hands with feminist hands."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Quique Aviles",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "132a475b-50b9-44cd-8db9-3d63aa800035"
+    },
+    {
+      "start_time": 24,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The chicken crossed to sign a bilateral bilingual bisexual chicken free trade agreement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Quique Aviles",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "8c12e6b7-4855-4c03-8216-1257cd93a86a"
+    },
+    {
+      "start_time": 29,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The chicken crossed to look into American chicken deportation methodology."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Quique Aviles",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "7e39fb79-f08d-4f1f-b0da-3cb18d64f6fe"
+    },
+    {
+      "start_time": 34,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The chicken crossed to deliver a spanish-speaking pizza. The chicken crossed to be a contestant in Miss Chicken USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Quique Aviles",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "375f9481-cd6b-4f51-88c8-ffafd376b1d8"
+    },
+    {
+      "start_time": 41,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The chicken crossed to fall in love with a new-age rooster guru."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Quique Aviles",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "4448450f-b954-4ccf-81f5-c6e19bc84f7c"
+    },
+    {
+      "start_time": 45,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The chicken crossed to lambada with Californian chicks. The chicken crossed for four years of studies at Chicken MIT."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Quique Aviles",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "874a156b-eff0-4ca8-83b6-7571782035ef"
+    },
+    {
+      "start_time": 53,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The chicken crossed to learn Black chicken slang. The chicken crossed out of curiosity, wonder and need."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Quique Aviles",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "fdde0cf3-4547-4ad2-bf54-e1cbe2b30fd2"
+    },
+    {
+      "start_time": 60,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The chickens simply wanted to get a chance to meet the other chicken. The chicken simply wanted to look you in the eyes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Quique Aviles",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "ba19270d-8d6c-4629-b220-32705f7c101e"
+    },
+    {
+      "start_time": 70,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Quique Aviles is a Salvadoran born poet based in Washington DC."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Washington D.C.",
+          "category": "Geographic"
+        }
+      ],
+      "uuid": "42ba64fa-64e9-4f1d-9299-ee9adbb11d6c"
+    }
+  ],
   "set": "Default",
   "event_id": "97cf0bdf-8f9d-42d9-8486-cb11afc835ea",
   "source_id": "924d4a2f-368a-40e2-b7a0-cf1f002ac513"
