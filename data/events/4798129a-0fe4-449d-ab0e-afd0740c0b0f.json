@@ -1,0 +1,30 @@
+{
+  "audiovisual_files": {
+    "c0db1f02-bbbe-40ed-94f2-3234a7bf5f7a": {
+      "label": "Bread and Roses - Latino USA Episode 425",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://archive.org/download/010330lusapgm-416-el-teatro-campesino/010601lusapgm425%20-%20Bread%20and%20Roses.mp3",
+      "duration": 302,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Bread and Roses",
+  "created_at": "2025-10-27T22:52:57.492Z",
+  "created_by": "amtellez16",
+  "updated_at": "2025-10-27T22:52:57.492Z",
+  "updated_by": "amtellez16"
+}
