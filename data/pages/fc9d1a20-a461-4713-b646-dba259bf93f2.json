@@ -110,10 +110,10 @@
   "created_at": "2025-10-27T18:56:34.879Z",
   "created_by": "amtellez16",
   "title": "Latino USA Visualization Project",
-  "updated_at": "2025-10-28T20:22:12.161Z",
+  "updated_at": "2025-10-28T20:22:23.722Z",
   "updated_by": "amtellez16",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "home"
   }
 }
