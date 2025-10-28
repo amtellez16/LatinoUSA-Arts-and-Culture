@@ -4,6 +4,38 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "This segment is Susanna Trilling’s recipe for Ensalada de Nopales Asados, or grilled cactus salad. "
         }
       ]
@@ -65,6 +97,38 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "event",
       "uuid": "945844eb-0c18-4e8b-a0bf-e049de57a05a",
       "includes": [
@@ -91,7 +155,7 @@
   "created_by": "amtellez16",
   "title": "Ensalada de Nopales Asados - Latino USA Episode 429",
   "slug": "ensalada-de-nopales-asados-latino-usa-episo",
-  "updated_at": "2025-10-28T20:50:37.570Z",
+  "updated_at": "2025-10-28T20:51:52.798Z",
   "updated_by": "amtellez16",
   "parent": "fc9d1a20-a461-4713-b646-dba259bf93f2",
   "autogenerate": {
