@@ -32,6 +32,43 @@
                 {
                   "text": ""
                 }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://texlibris.lib.utexas.edu/wp-content/uploads/2025/02/sm_Latino-USA-On-Campus-Full-Page.png",
+              "caption": "Latino USA on Campus. Credit: Benson Latin American Collection.",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "scale": 67,
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
               ]
             },
             {
@@ -56,9 +93,7 @@
               ]
             },
             {
-              "type": "image",
-              "url": "https://texlibris.lib.utexas.edu/wp-content/uploads/2025/02/sm_Latino-USA-On-Campus-Full-Page.png",
-              "caption": "Latino USA on campus. Credit: Benson Latin American Collection",
+              "type": "paragraph",
               "children": [
                 {
                   "text": ""
@@ -69,7 +104,48 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": "Introduction",
+                  "textSize": "heading-one"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Latino USA got its start out of the Center for Mexican American Studies (CMAS) in 1993. The show was produced in collaboration with the public radio station, KUT, and the University of Texas at Austin. The award-winning radio show aired once a week, aiming to reach Latino/a audiences and fill a gap in Latino/a-related content. The show’s host, Maria Hinojosa, opens every episode with a brief introduction: “This is Latino USA, the radio journal of news and culture.” "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\nThis AVAnnotate project intends to emphasize ten cultural segments from an assortment of episodes, as they play a significant role in the construction of each show. The producers of Latino USA illustrate the importance and richness of Latino/a culture by devoting segments of the program to different forms of expression: film, music, literature, food, and more. The episodes selected from this project span from January 1 to July 27 of 2001. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\nEach page of this project provides additional context for each episode, along with photos and videos to provide users with examples of the topics discussed. Including supplementary resources can enable folks to engage with content in new ways, as they can refer to the subject material as they listen. Additionally, AVAnnotate allows for increased accessibility, as users can read the transcript as the segments play. This project intends to be a resource for listeners with reference to trustworthy sources, in addition to being a jumping-off point for further research: each page includes relevant books and articles that can be found at the University of Texas at Austin library. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
                 }
               ]
             },
@@ -113,56 +189,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Introduction",
-          "textSize": "heading-two"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Latino USA got its start out of the Center for Mexican American Studies (CMAS) in 1993. The show was produced in collaboration with the public radio station, KUT, and the University of Texas at Austin. The award-winning radio show aired once a week, aiming to reach Latino/a audiences and fill a gap in Latino/a-related content. The show’s host, Maria Hinojosa, opens every episode with a brief introduction: “This is Latino USA, the radio journal of news and culture.” "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "This AVAnnotate project intends to emphasize ten cultural segments from an assortment of episodes, as they play a significant role in the construction of each show. The producers of Latino USA illustrate the importance and richness of Latino/a culture by devoting segments of the program to different forms of expression: film, music, literature, food, and more. The episodes selected from this project span from January 1 to July 27 of 2001. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Each page of this project provides additional context for each episode, along with photos and videos to provide users with examples of the topics discussed. Including supplementary resources can enable folks to engage with content in new ways, as they can refer to the subject material as they listen. Additionally, AVAnnotate allows for increased accessibility, as users can read the transcript as the segments play. This project intends to be a resource for listeners with reference to trustworthy sources, in addition to being a jumping-off point for further research: each page includes relevant books and articles that can be found at the University of Texas at Austin library. "
         }
       ]
     },
@@ -556,7 +583,7 @@
   "created_at": "2025-10-27T18:56:34.879Z",
   "created_by": "amtellez16",
   "title": "Latino USA Visualization Project Introduction",
-  "updated_at": "2025-10-29T21:36:59.590Z",
+  "updated_at": "2025-10-29T21:40:51.486Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
