@@ -486,11 +486,11 @@
   "created_by": "amtellez16",
   "title": "Ensalada de Nopales Asados - Latino USA Episode 429",
   "slug": "ensalada-de-nopales-asados-latino-usa-episo",
-  "updated_at": "2025-10-29T00:51:57.092Z",
+  "updated_at": "2025-10-29T00:52:32.489Z",
   "updated_by": "amtellez16",
   "parent": "fc9d1a20-a461-4713-b646-dba259bf93f2",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "945844eb-0c18-4e8b-a0bf-e049de57a05a"
   }
