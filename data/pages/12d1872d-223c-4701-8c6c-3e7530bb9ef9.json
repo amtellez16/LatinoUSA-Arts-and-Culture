@@ -4,11 +4,12 @@
   "created_by": "amtellez16",
   "title": "Ojala Performance",
   "slug": "ojala-performance",
-  "updated_at": "2025-10-29T21:55:18.370Z",
+  "updated_at": "2025-10-29T22:43:08.935Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "22ad9214-e24a-44f5-b0ba-e07547bcb76a"
-  }
+  },
+  "parent": "642973f4-cfb3-4b0e-9185-ada71a9898dd"
 }
