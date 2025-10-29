@@ -4,11 +4,12 @@
   "created_by": "amtellez16",
   "title": "Cucurrucucú Paloma - Lola Beltran",
   "slug": "cucurrucucu-paloma-lola-beltran",
-  "updated_at": "2025-10-29T22:03:32.211Z",
+  "updated_at": "2025-10-29T22:44:19.272Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "054cb7f4-5435-4414-ab18-65934db1c8a6"
-  }
+  },
+  "parent": "642973f4-cfb3-4b0e-9185-ada71a9898dd"
 }
