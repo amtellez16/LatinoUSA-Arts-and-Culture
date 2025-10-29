@@ -4,9 +4,10 @@
       "type": "paragraph",
       "children": [
         {
-          "italic": true,
           "text": "",
-          "textSize": "heading-one"
+          "italic": true,
+          "textSize": "heading-one",
+          "code": true
         }
       ]
     },
@@ -76,7 +77,7 @@
                   "text": ""
                 }
               ],
-              "scale": 58
+              "scale": 67
             },
             {
               "type": "paragraph",
@@ -162,25 +163,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "https://www.youtube.com/watch?v=nJ1K9M3IMfI",
-      "caption": "Ojala Performance",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": ""
         }
       ]
@@ -229,33 +211,6 @@
         {
           "text": "Lola Beltran's performance of \"Cucurrucucú Paloma.\"",
           "link": "https://youtu.be/wFV1IwmnhEU?si=xjCkRRDhrIBqEB8g"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "link": "https://youtu.be/wFV1IwmnhEU?si=xjCkRRDhrIBqEB8g",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "https://www.youtube.com/watch?v=wFV1IwmnhEU",
-      "caption": "Lola Beltran's performance of Cucurrucucú Paloma",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
         }
       ]
     },
@@ -501,7 +456,7 @@
   "created_by": "amtellez16",
   "title": "Ojala (Band) - Latino USA Episode 428",
   "slug": "ojala-band-latino-usa-episode-428",
-  "updated_at": "2025-10-29T19:14:30.432Z",
+  "updated_at": "2025-10-29T19:32:10.442Z",
   "updated_by": "amtellez16",
   "parent": "fc9d1a20-a461-4713-b646-dba259bf93f2",
   "autogenerate": {
