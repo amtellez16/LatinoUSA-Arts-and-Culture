@@ -26,12 +26,74 @@
       ]
     },
     {
-      "type": "image",
-      "url": "https://live.staticflickr.com/5258/5529283000_465586bd90_b.jpg",
-      "caption": "Tin ceiling at the Rio Grande Botanical Garden in Albuquerque, New Mexico. Flickr.",
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
       "children": [
         {
-          "text": ""
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://live.staticflickr.com/5258/5529283000_465586bd90_b.jpg",
+              "caption": "Tin ceiling at the Rio Grande Botanical Garden in Albuquerque, New Mexico. Credit Flickr. ",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "scale": 95
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Alfonso_Santiago_Leyva_and_his_son_Tom%C3%A1s_working.jpg",
+              "caption": "Caption: Alfonso Santiago Leyva and son Tomas at workshop in Oaxaca. Credit: Wikimedia Commons.",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -39,7 +101,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "bold": true
         }
       ]
     },
@@ -47,33 +110,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Alfonso_Santiago_Leyva_and_his_son_Tom%C3%A1s_working.jpg",
-      "caption": "Alfonso Santiago Leyva and son Tomas at workshop in Oaxaca. Wikimedia Commons.",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Episode 405 aired on January 12, 2001. "
+          "text": "Episode 405 aired on January 12, 2001. ",
+          "bold": true
         }
       ]
     },
@@ -299,7 +337,7 @@
   "created_by": "amtellez16",
   "title": "New Mexican Tin Art - Latino USA Episode 405",
   "slug": "new-mexican-tin-art-latino-usa-episode-405",
-  "updated_at": "2025-10-29T18:39:47.823Z",
+  "updated_at": "2025-10-29T18:47:32.338Z",
   "updated_by": "amtellez16",
   "parent": "fc9d1a20-a461-4713-b646-dba259bf93f2",
   "autogenerate": {
