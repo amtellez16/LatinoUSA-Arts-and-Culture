@@ -80,7 +80,8 @@
                 {
                   "text": ""
                 }
-              ]
+              ],
+              "scale": 70
             },
             {
               "type": "paragraph",
@@ -116,7 +117,20 @@
         {
           "text": "Introduction",
           "textSize": "heading-one"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
           "text": "\nLatino USA got its start out of the Center for Mexican American Studies (CMAS) in 1993. The show was produced in collaboration with the public radio station, KUT, and the University of Texas at Austin. The award-winning radio show aired once a week, aiming to reach Latino/a audiences and fill a gap in Latino/a-related content. The show’s host, Maria Hinojosa, opens every episode with a brief introduction: “This is Latino USA, the radio journal of news and culture.” "
         }
@@ -528,7 +542,7 @@
   "created_at": "2025-10-27T18:56:34.879Z",
   "created_by": "amtellez16",
   "title": "Latino USA Visualization Project Introduction",
-  "updated_at": "2025-10-29T22:39:15.090Z",
+  "updated_at": "2025-10-29T22:55:05.199Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
