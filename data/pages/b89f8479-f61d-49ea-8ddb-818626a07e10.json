@@ -12,15 +12,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "horizontal-separator",
-      "children": [
-        {
-          "text": ""
+          "text": "Ensalada de Nopales Asados",
+          "textSize": "heading-one"
         }
       ]
     },
@@ -33,26 +26,12 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "This segment is Susanna Trilling’s recipe for Ensalada de Nopales Asados, or grilled cactus salad. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
+      "type": "image",
+      "url": "https://www.publicdomainpictures.net/pictures/450000/nahled/prickly-pear-cactus-1649580241yWb.jpg",
+      "caption": "Nopal verde con placa como tallos de hojas. Public Domain Pictures",
       "children": [
         {
           "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Susanna Trilling is a chef, teacher, author and director of the _Seasons of My Heart_ cooking school. In the 1970s, she worked as a sous chef at Sweetish Hill and Fonda San Miguel in Austin, Texas. Then in the 1980s, Trilling was the chef-owner of two restaurants in New York City: Rick’s Lounge and Bon Temps Roller. According to her website, she also opened her catering business, Seasons of my Heart. She moved to Oaxaca, Mexico in 1988 with her family, where she opened a bed and breakfast in 1994. From her ranch just outside of the city, she began growing her own produce. "
         }
       ]
     },
@@ -68,7 +47,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Cooking with Nopales"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ensalada_de_Nopales.jpg",
+      "caption": "Ensalada de Nopales. Wikimedia Commons.",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -84,7 +73,349 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Nopal is the Spanish name for cacti and comes from the Nahuatl word nohpalli, meaning the “fruit of the earth.” Folks typically cut off the spines and edges before cutting them into small bite-sized pieces and boiling them to get rid of the slime. People have been eating nopal for thousands of years and it is known for being a healthy addition to any plate. Nopales are also used for other things. "
+          "text": "This segment is Susanna Trilling’s recipe for Ensalada de Nopales Asados, or grilled cactus salad. It aired on June 29, 2001."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Susanna Trilling is a chef, teacher, author, and director of the Seasons of My Heart cooking school. In the 1970s, she worked as a sous chef at Sweetish Hill and Fonda San Miguel in Austin, Texas. Then in the 1980s, Trilling was the chef-owner of two restaurants in New York City: Rick’s Lounge and Bon Temps Roller. According to her website, she also opened her catering business, Seasons of my Heart. She moved to Oaxaca, Mexico, in 1988 with her family, where she opened a bed and breakfast in 1994. From her ranch just outside the city, she began growing her own produce. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Cooking with Nopales",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Nopal is the Spanish name for cacti and comes from the Nahuatl word nohpalli, meaning the “fruit of the earth.” Folks typically cut off the spines and edges before cutting them into small bite-sized pieces and boiling them to get rid of the slime. People have been eating nopal for thousands of years, and it is known for being a healthy addition to any plate. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Additional Resources:",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Books",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Seasons of my heart : a culinary journey through Oaxaca, Mexico / Susana Trilling.",
+          "link": "https://search.lib.utexas.edu/permalink/01UTAU\\_INST/be14ds/alma991049545899706011](https://search.lib.utexas.edu/permalink/01UTAU_INST/be14ds/alma991049545899706011"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Trilling, Susana.",
+          "link": "https://search.lib.utexas.edu/permalink/01UTAU\\_INST/be14ds/alma991049545899706011](https://search.lib.utexas.edu/permalink/01UTAU_INST/be14ds/alma991049545899706011"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "1999; 1st ed.",
+          "link": "https://search.lib.utexas.edu/permalink/01UTAU\\_INST/be14ds/alma991049545899706011](https://search.lib.utexas.edu/permalink/01UTAU_INST/be14ds/alma991049545899706011"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "My search for the seventh mole : a story with recipes from Oaxaca, Mexico / Susana Trilling.",
+          "link": "https://search.lib.utexas.edu/permalink/01UTAU\\_INST/be14ds/alma991026426089706011](https://search.lib.utexas.edu/permalink/01UTAU_INST/be14ds/alma991026426089706011"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Trilling, Susana.",
+          "link": "https://search.lib.utexas.edu/permalink/01UTAU\\_INST/be14ds/alma991026426089706011](https://search.lib.utexas.edu/permalink/01UTAU_INST/be14ds/alma991026426089706011"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "1997",
+          "link": "https://search.lib.utexas.edu/permalink/01UTAU\\_INST/be14ds/alma991026426089706011](https://search.lib.utexas.edu/permalink/01UTAU_INST/be14ds/alma991026426089706011"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "El nopal y su historia / Ernesto Velázquez.",
+          "link": "https://search.lib.utexas.edu/permalink/01UTAU\\_INST/be14ds/alma991044125519706011](https://search.lib.utexas.edu/permalink/01UTAU_INST/be14ds/alma991044125519706011"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Velázquez, Ernesto.",
+          "link": "https://search.lib.utexas.edu/permalink/01UTAU\\_INST/be14ds/alma991044125519706011](https://search.lib.utexas.edu/permalink/01UTAU_INST/be14ds/alma991044125519706011"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "1998; 1. ed.",
+          "link": "https://search.lib.utexas.edu/permalink/01UTAU\\_INST/be14ds/alma991044125519706011](https://search.lib.utexas.edu/permalink/01UTAU_INST/be14ds/alma991044125519706011"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Cocina mexicana a través de los siglos. 2. ser.",
+          "link": "https://search.lib.utexas.edu/permalink/01UTAU\\_INST/be14ds/alma991044125519706011](https://search.lib.utexas.edu/permalink/01UTAU_INST/be14ds/alma991044125519706011"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Cooking - and Coping - Among the Cacti: Diet, Nutrition and Available Income in Northwestern Mexico",
+          "link": "https://search.lib.utexas.edu/permalink/01UTAU\\_INST/apl7st/cdi\\_askewsholts\\_vlebooks\\_9781315078403](https://search.lib.utexas.edu/permalink/01UTAU_INST/apl7st/cdi_askewsholts_vlebooks_9781315078403"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Baer, Roberta D.",
+          "link": "https://search.lib.utexas.edu/permalink/01UTAU\\_INST/apl7st/cdi\\_askewsholts\\_vlebooks\\_9781315078403](https://search.lib.utexas.edu/permalink/01UTAU_INST/apl7st/cdi_askewsholts_vlebooks_9781315078403"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "1998; 1",
+          "link": "https://search.lib.utexas.edu/permalink/01UTAU\\_INST/apl7st/cdi\\_askewsholts\\_vlebooks\\_9781315078403](https://search.lib.utexas.edu/permalink/01UTAU_INST/apl7st/cdi_askewsholts_vlebooks_9781315078403"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Magazine Articles",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Pescado empapelado al diablo",
+          "link": "https://search.lib.utexas.edu/permalink/01UTAU\\_INST/apl7st/cdi\\_gale\\_infotracnewsstand\\_STND\\_A84396606](https://search.lib.utexas.edu/permalink/01UTAU_INST/apl7st/cdi_gale_infotracnewsstand_STND_A84396606"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Trilling, Susana",
+          "link": "https://search.lib.utexas.edu/permalink/01UTAU\\_INST/apl7st/cdi\\_gale\\_infotracnewsstand\\_STND\\_A84396606](https://search.lib.utexas.edu/permalink/01UTAU_INST/apl7st/cdi_gale_infotracnewsstand_STND_A84396606"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Texas monthly (Austin), 2002-04, Vol.30 (4), p.133",
+          "link": "https://search.lib.utexas.edu/permalink/01UTAU\\_INST/apl7st/cdi\\_gale\\_infotracnewsstand\\_STND\\_A84396606](https://search.lib.utexas.edu/permalink/01UTAU_INST/apl7st/cdi_gale_infotracnewsstand_STND_A84396606"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Works Cited:",
+          "textSize": "heading-three"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ruvalcaba, Jessica. “Nopales, The OG Ancestral Food We’ve Been Eating Since Waaaay Before Plant Based Foods Became Trendy.” We Are Mitú. 100% American & Latino, 21 May 2021, https://wearemitu.com/wearemitu/culture/nopales-the-og-ancestral-food-weve-been-eating-since-before-plant-based-foods-became-trendy/."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“The Legacy of Susana Trilling.” Seasons of My Heart, https://www.seasonsofmyheart.com/susana-trilling."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -155,7 +486,7 @@
   "created_by": "amtellez16",
   "title": "Ensalada de Nopales Asados - Latino USA Episode 429",
   "slug": "ensalada-de-nopales-asados-latino-usa-episo",
-  "updated_at": "2025-10-29T00:43:16.002Z",
+  "updated_at": "2025-10-29T00:51:57.092Z",
   "updated_by": "amtellez16",
   "parent": "fc9d1a20-a461-4713-b646-dba259bf93f2",
   "autogenerate": {
