@@ -175,14 +175,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "link": "https://youtu.be/nJ1K9M3IMfI?si=tApbdYn1lUaAj54S",
           "text": ""
         }
@@ -238,26 +230,20 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Lola Beltran's performance of \"Cucurrucucú Paloma.\"",
-          "link": "https://youtu.be/wFV1IwmnhEU?si=xjCkRRDhrIBqEB8g"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "italic": true,
+          "link": "https://youtu.be/wFV1IwmnhEU?si=xjCkRRDhrIBqEB8g",
           "text": ""
         }
       ]
     },
     {
-      "type": "paragraph",
+      "uuid": "054cb7f4-5435-4414-ab18-65934db1c8a6",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
       "children": [
         {
-          "text": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/wFV1IwmnhEU?si=QIoLqH0zZ-lhArng\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
-          "code": true
+          "text": ""
         }
       ]
     },
@@ -373,98 +359,6 @@
       "type": "paragraph",
       "children": [
         {
-          "italic": true,
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "italic": true,
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "italic": true,
-          "text": "Works Cited:",
-          "bold": true
-        }
-      ],
-      "align": "center"
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "italic": true,
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "italic": true,
-          "text": "Acosta, Belinda. “God Willing.” The Austin Chronicle, 13 Apr. 2001, https://www.austinchronicle.com/music/god-willing-11708956/."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "italic": true,
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "italic": true,
-          "text": "Epps, Bradley S., and Despina Kakoudaki. All about Almodóvar: A Passion for Cinema. U of Minnesota Press, 2009."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "italic": true,
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "italic": true,
-          "text": "MODE, DE. “Lola Beltrán: The Queen of Ranchera Music.” DE MODE, 25 Feb. 2025, https://www.demodemagazine.com/lola-beltrán-the-queen-of-ranchera-music."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "italic": true,
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": ""
         }
       ]
@@ -495,7 +389,63 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Works Cited:",
+          "textSize": "heading-two"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Acosta, Belinda. “God Willing.” The Austin Chronicle, 13 Apr. 2001, https://www.austinchronicle.com/music/god-willing-11708956/.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Epps, Bradley S., and Despina Kakoudaki. All about Almodóvar: A Passion for Cinema. U of Minnesota Press, 2009.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "MODE, DE. “Lola Beltrán: The Queen of Ranchera Music.” DE MODE, 25 Feb. 2025, https://www.demodemagazine.com/lola-beltrán-the-queen-of-ranchera-music.",
+          "italic": true
         }
       ]
     }
@@ -504,7 +454,7 @@
   "created_by": "amtellez16",
   "title": "Ojala (Band) - Latino USA Episode 428",
   "slug": "ojala-band-latino-usa-episode-428",
-  "updated_at": "2025-10-29T21:56:43.943Z",
+  "updated_at": "2025-10-29T22:09:01.388Z",
   "updated_by": "amtellez16",
   "parent": "fc9d1a20-a461-4713-b646-dba259bf93f2",
   "autogenerate": {
