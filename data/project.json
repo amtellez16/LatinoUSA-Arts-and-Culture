@@ -16,20 +16,14 @@
     "github_org": "amtellez16",
     "is_private": false,
     "title": "Latino USA Visualization Project",
-    "description": "This AVAnnotate project intends to emphasize the culture and art segments from an assortment of episodes. By providing additional context, Latino USA listeners can engage with its content in new ways. Not only are the transcripts available to read along with each episode, but each web page includes additional content, like photos, music, and videos, to provide users with a more immersive experience of the topics discussed.",
+    "description": "This AVAnnotate project intends to emphasize the art segments from an assortment of episodes. By providing additional context, Latino USA listeners can engage with its content in new ways. Not only are the transcripts available to read along with each episode, but each web page includes additional content, like photos, music, and videos, to provide users with a more immersive experience of the topics discussed.",
     "language": "en",
     "slug": "LatinoUSA-Arts-and-Culture",
     "creator": "amtellez16",
     "authors": "Kathryn Gaylon, Luz Gonzalez, Christian Nicholas, and Allysa Tellez",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [
-      {
-        "login_name": "llilasbenson",
-        "avatar_url": "https://avatars.githubusercontent.com/u/26462551?v=4",
-        "admin": false
-      }
-    ],
+    "additional_users": [],
     "tags": {
       "tagGroups": [
         {
@@ -781,7 +775,7 @@
       ]
     },
     "created_at": "2025-10-27T18:56:34.860Z",
-    "updated_at": "2025-10-29T19:59:08.946Z",
+    "updated_at": "2025-10-29T21:36:08.842Z",
     "generate_pages_site": true
   },
   "annotations": {},
