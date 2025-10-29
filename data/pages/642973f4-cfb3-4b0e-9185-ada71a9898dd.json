@@ -412,11 +412,11 @@
   "created_by": "amtellez16",
   "title": "Ojala (Band) - Latino USA Episode 428",
   "slug": "ojala-band-latino-usa-episode-428",
-  "updated_at": "2025-10-29T17:09:43.891Z",
+  "updated_at": "2025-10-29T17:20:30.745Z",
   "updated_by": "amtellez16",
   "parent": "fc9d1a20-a461-4713-b646-dba259bf93f2",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "a6fa2b04-ad26-4d02-bfcd-c0f41cb1a3a3"
   }
