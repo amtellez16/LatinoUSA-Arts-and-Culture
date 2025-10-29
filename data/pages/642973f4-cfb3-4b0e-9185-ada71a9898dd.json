@@ -146,15 +146,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "",
-          "link": "https://youtu.be/nJ1K9M3IMfI?si=tApbdYn1lUaAj54S"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "link": "https://youtu.be/nJ1K9M3IMfI?si=tApbdYn1lUaAj54S",
           "text": ""
         }
@@ -163,8 +154,7 @@
     {
       "type": "grid",
       "layout": [
-        3,
-        3
+        6
       ],
       "children": [
         {
@@ -199,38 +189,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "grid",
-      "layout": [
-        6
-      ],
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
         }
       ]
     },
@@ -268,16 +226,6 @@
       "children": [
         {
           "italic": true,
-          "text": "",
-          "textSize": "heading-three"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "italic": true,
           "textSize": "heading-three",
           "text": ""
         }
@@ -286,21 +234,12 @@
     {
       "type": "grid",
       "layout": [
-        3,
-        3
+        6
       ],
       "children": [
         {
           "type": "column",
           "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
             {
               "uuid": "054cb7f4-5435-4414-ab18-65934db1c8a6",
               "includes": [
@@ -313,19 +252,6 @@
                 }
               ]
             },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "column",
-          "children": [
             {
               "type": "paragraph",
               "children": [
@@ -554,7 +480,7 @@
   "created_by": "amtellez16",
   "title": "Ojala (Band) - Latino USA Episode 428",
   "slug": "ojala-band-latino-usa-episode-428",
-  "updated_at": "2025-10-29T22:45:12.110Z",
+  "updated_at": "2025-10-29T22:57:20.046Z",
   "updated_by": "amtellez16",
   "parent": "fc9d1a20-a461-4713-b646-dba259bf93f2",
   "autogenerate": {
