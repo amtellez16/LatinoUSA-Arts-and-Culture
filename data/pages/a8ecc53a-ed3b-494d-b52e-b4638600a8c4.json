@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "test to retrieve",
+  "parent": "12d1872d-223c-4701-8c6c-3e7530bb9ef9",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "test-to-retrieve",
+  "created_at": "2025-10-30T21:02:18.330Z",
+  "created_by": "luzgonz-glitch",
+  "updated_at": "2025-10-30T21:02:18.330Z",
+  "updated_by": "luzgonz-glitch"
+}
