@@ -1,0 +1,39 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "test "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "testing",
+  "parent": "082b3ed1-da33-47b8-a622-c5f39fe35074",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "testing",
+  "created_at": "2025-10-30T21:00:35.616Z",
+  "created_by": "luzgonz-glitch",
+  "updated_at": "2025-10-30T21:00:35.616Z",
+  "updated_by": "luzgonz-glitch"
+}
