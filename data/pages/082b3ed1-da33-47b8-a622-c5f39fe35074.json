@@ -4,11 +4,12 @@
   "created_by": "katiegalyon14",
   "title": "Bread and Roses Trailer",
   "slug": "bread-and-roses-trailer",
-  "updated_at": "2025-10-30T20:27:55.543Z",
-  "updated_by": "katiegalyon14",
+  "updated_at": "2025-10-30T21:01:31.036Z",
+  "updated_by": "luzgonz-glitch",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "f5b93f87-e7ef-4462-9aff-390ffdba87f9"
-  }
+  },
+  "parent": "fc9d1a20-a461-4713-b646-dba259bf93f2"
 }
