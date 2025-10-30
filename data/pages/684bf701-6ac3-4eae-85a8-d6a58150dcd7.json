@@ -4,11 +4,12 @@
   "created_by": "amtellez16",
   "title": "West Side Story Trailer",
   "slug": "west-side-story-trailer",
-  "updated_at": "2025-10-30T01:34:28.366Z",
+  "updated_at": "2025-10-30T01:35:55.863Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "91bcb09d-aeed-41cc-88fd-4926fdf72216"
-  }
+  },
+  "parent": "3c756869-1f78-40b5-9c45-0697c2f660fb"
 }
