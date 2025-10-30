@@ -4,11 +4,12 @@
   "created_by": "amtellez16",
   "title": "Nortec Collective: Fussible - Ventilador",
   "slug": "nortec-collective-fussible-ventilador",
-  "updated_at": "2025-10-30T02:45:36.018Z",
+  "updated_at": "2025-10-30T03:14:09.711Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "7f5885ee-8b84-46a2-b956-a24f860c2a53"
-  }
+  },
+  "parent": "3e95f3fa-18c1-4088-8834-38e7b5327a42"
 }
