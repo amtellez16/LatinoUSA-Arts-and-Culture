@@ -29,7 +29,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This episode aired on February 23, 2001 and is an interview between Maria Hinojosa and Rita Moreno. "
+          "text": "Episode 411 of Latino USA aired on February 23, 2001, and is an interview between Maria Hinojosa and Rita Moreno. "
         }
       ]
     },
@@ -101,11 +101,43 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "grid",
+      "layout": [
+        6
+      ],
       "children": [
         {
-          "link": "https://www.youtube.com/watch?v=HpKbrpPiExA](https://www.youtube.com/watch?v=HpKbrpPiExA",
-          "text": "West Side Story Trailer"
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "uuid": "91bcb09d-aeed-41cc-88fd-4926fdf72216",
+              "includes": [
+                "media"
+              ],
+              "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -363,7 +395,7 @@
   "created_by": "amtellez16",
   "title": "Rita Moreno - Latino USA Episode 411",
   "slug": "rita-moreno-latino-usa-episode-411",
-  "updated_at": "2025-10-30T01:35:07.890Z",
+  "updated_at": "2025-10-30T01:39:09.883Z",
   "updated_by": "amtellez16",
   "parent": "fc9d1a20-a461-4713-b646-dba259bf93f2",
   "autogenerate": {
